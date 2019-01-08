@@ -1,0 +1,1093 @@
+北部地区:
+
+  - 达尔文:
+      state:
+        281
+      city:
+        3520
+      address:
+        Darwin, City of Darwin, Northern Territory, 0800, Australia
+      lat:
+        -12.46044
+      lng:
+        130.8410469
+
+  - 爱丽斯泉:
+      state:
+        281
+      city:
+        3520
+      address:
+        Alice Springs, Town of Alice Springs, Northern Territory, 0870, Australia
+      lat:
+        -23.6983884
+      lng:
+        133.8812885
+
+  - 凯瑟琳:
+      state:
+        281
+      city:
+        3520
+      address:
+        Katherine, Town of Katherine, Northern Territory, 0850, Australia
+      lat:
+        -14.4656649
+      lng:
+        132.2631058
+
+  - 北帕默斯顿:
+      state:
+        281
+      city:
+        3519
+      address:
+        Palmerston, City of Palmerston, Northern Territory, 0830, Australia
+      lat:
+        -12.489982
+      lng:
+        130.9908056
+
+堪培拉:
+
+  - 堪培拉:
+      state:
+        282
+      city:
+        3521
+      address:
+        Canberra, District of Canberra Central, Australian Capital Territory, 2600, Australia
+      lat:
+        -35.2975906
+      lng:
+        149.1012676
+
+昆士兰:
+  - 布里斯班:
+      state:
+        283
+      city:
+        3522
+      address:
+        City of Brisbane, Queensland, Australia
+      lat:
+        -27.4689682
+      lng:
+        153.0234991
+
+  - 班德堡:
+      state:
+        283
+      city:
+        3522
+      address:
+        Bundaberg, Bundaberg Region, Queensland, 4670, Australia
+      lat:
+        -24.8653253
+      lng:
+        152.3516785
+
+  - 凯恩斯:
+      state:
+        283
+      city:
+        3524
+      address:
+        Cairns, Queensland, 4870, Australia
+      lat:
+        -16.9206657
+      lng:
+        145.7721854
+
+  - 库隆加塔:
+      state:
+        283
+      city:
+        3522
+      address:
+        Coolangatta, Queensland, 2485, Australia
+      lat:
+        -28.1682934
+      lng:
+        153.538753
+
+  - 格列士敦:
+      state:
+        283
+      city:
+        3522
+      address:
+        Gladstone, Queensland, 4680, Australia
+      lat:
+        -23.8431724
+      lng:
+        151.256132
+
+  - 黄金海岸:
+      state:
+        283
+      city:
+        3523
+      address:
+        Gold Coast, Queensland, 4217, Australia
+      lat:
+        -28.0023731
+      lng:
+        153.4145987
+
+  - 金皮:
+      state:
+        283
+      city:
+        3522
+      address:
+        Gympie, Queensland, Australia
+      lat:
+        -26.1900447
+      lng:
+        152.6600256
+
+  - 赫维湾:
+      state:
+        283
+      city:
+        3522
+      address:
+        Hervey Bay, Queensland, 4655, Australia
+      lat:
+        -25.2985784
+      lng:
+        152.8535216
+
+  - 伊普斯威奇:
+      state:
+        283
+      city:
+        3522
+      address:
+        Ipswich, Queensland, Australia
+      lat:
+        -27.6160135
+      lng:
+        152.7608702
+
+  - 洛根:
+      state:
+        283
+      city:
+        3522
+      address:
+        Logan Road, Buranda, Wellers Hill, City of Brisbane, Queensland, 4120, Australia
+      lat:
+        -27.497013
+      lng:
+        153.0416501
+
+  - 麦凯:
+      state:
+        283
+      city:
+        3522
+      address:
+        Mackay, Queensland, 4740, Australia
+      lat:
+        -21.141956
+      lng:
+        149.1865149
+
+  - 玛丽伯勒:
+      state:
+        283
+      city:
+        3522
+      address:
+        Maryborough, Queensland, 4650, Australia
+      lat:
+        -25.537583
+      lng:
+        152.7019182
+
+  - 伊萨山:
+      state:
+        283
+      city:
+        3522
+      address:
+        Mount Isa, Queensland, 4825, Australia
+      lat:
+        -20.7289898
+      lng:
+        139.4931522
+
+  - 南港:
+      state:
+        283
+      city:
+        3522
+      address:
+        Southport, Gold Coast, Queensland, 4215, Australia
+      lat:
+        -27.9687807
+      lng:
+        153.4066696
+
+  - 洛坎普顿:
+      state:
+        283
+      city:
+        3522
+      address:
+        Rockhampton, Queensland, 4700, Australia
+      lat:
+        -23.3782501
+      lng:
+        150.5134442
+
+  - 日光海岸:
+      state:
+        283
+      city:
+        3525
+      address:
+        Sunshine Coast, Maroochydore, Queensland, 4573, Australia
+      lat:
+        -26.5443222
+      lng:
+        153.0507705
+
+  - 图文巴:
+      state:
+        283
+      city:
+        3527
+      address:
+        Toowoomba, Queensland, 4350, Australia
+      lat:
+        -27.5610193
+      lng:
+        151.953351
+
+  - 汤斯维尔:
+      state:
+        283
+      city:
+        3526
+      address:
+        Townsville, Queensland, 4810, Australia
+      lat:
+        -19.2569391
+      lng:
+        146.8239537
+
+南澳大利亚:
+
+  - 阿德莱德:
+      state:
+        284
+      city:
+        3528
+      address:
+        Adelaide, City of Adelaide, South Australia, 5000, Australia
+      lat:
+        -34.9281805
+      lng:
+        138.5999312
+
+  - 芒特巴克:
+      state:
+        284
+      city:
+        3528
+      address:
+        Mount Barker, Mount Barker District Council, South Australia, 5251, Australia
+      lat:
+        -35.0641302
+      lng:
+        138.8586385
+
+  - 甘比亚山:
+      state:
+        284
+      city:
+        3530
+      address:
+        Mount Gambier, City of Mount Gambier, South Australia, 5290, Australia
+      lat:
+        -37.8301386
+      lng:
+        140.7842627
+
+  - 默里布里奇:
+      state:
+        284
+      city:
+        3533
+      address:
+        Murray Bridge, Rural City of Murray Bridge, South Australia, 5253, Australia
+      lat:
+        -35.1309451
+      lng:
+        139.2651638
+
+  - 阿德莱德港:
+      state:
+        284
+      city:
+        3528
+      address:
+        Port Adelaide, Adelaide, South Australia, 5015, Australia
+      lat:
+        -34.8342755
+      lng:
+        138.5123548
+
+  - 奥古斯塔港:
+      state:
+        284
+      city:
+        3529
+      address:
+        Port Augusta, Port Augusta City Council, South Australia, 5700, Australia
+      lat:
+        -32.4908819
+      lng:
+        137.7639874
+
+  - 皮里港:
+      state:
+        284
+      city:
+        3534
+      address:
+        Port Pirie, South Australia, 5540, Australia
+      lat:
+        -33.1791249
+      lng:
+        138.0058614
+
+  - 林肯港:
+      state:
+        284
+      city:
+        3532
+      address:
+        Port Lincoln, South Australia, 5606, Australia
+      lat:
+        -34.7211905
+      lng:
+        135.8592218
+
+  - 维克托港:
+      state:
+        284
+      city:
+        3535
+      address:
+        Victor Harbor, City of Victor Harbor, South Australia, 5211, Australia
+      lat:
+        -35.5545579
+      lng:
+        138.6234743
+
+  - 怀阿拉:
+      state:
+        284
+      city:
+        3531
+      address:
+        Whyalla, South Australia, 5600, Australia
+      lat:
+        -33.0382085
+      lng:
+        137.5843572
+
+塔斯马尼亚:
+  - 霍巴特:
+      state:
+        285
+      city:
+        3538
+      address:
+        Hobart, Tasmania, Australia
+      lat:
+        -42.8825088
+      lng:
+        147.3281233
+
+  - 史密斯顿:
+      state:
+        285
+      city:
+        3538
+      address:
+        Smithton, Tasmania, Australia
+      lat:
+        -40.8415455
+      lng:
+        145.1282245
+
+  - 斯特拉恩:
+      state:
+        285
+      city:
+        3538
+      address:
+        Strahan, Tasmania, 7468, Australia
+      lat:
+        -42.1525389
+      lng:
+        145.3282194
+
+  - 昆斯敦:
+      state:
+        285
+      city:
+        3538
+      address:
+        Queenstown, Tasmania, 7467, Australia
+      lat:
+        -42.0801236
+      lng:
+        145.5553843
+
+  - 亚瑟港:
+      state:
+        285
+      city:
+        3538
+      address:
+        Port Arthur, Tasmania, 7182, Australia
+      lat:
+        -43.1411972
+      lng:
+        147.8520119
+
+  - 伯尼港:
+      state:
+        285
+      city:
+        3536
+      address:
+        Burnie, Tasmania, 7320, Australia
+      lat:
+        -41.0523688
+      lng:
+        145.9064073
+
+  - 比舍诺:
+      state:
+        285
+      city:
+        3538
+      address:
+        Bicheno, Tasmania, Australia
+      lat:
+        -41.8748974
+      lng:
+        148.3038105
+
+  - 科尔斯贝:
+      state:
+        285
+      city:
+        3538
+      address:
+        Coles Bay, Tasmania, 7251, Australia
+      lat:
+        -42.125218
+      lng:
+        148.2885381
+
+  - 德文波特:
+      state:
+        285
+      city:
+        3537
+      address:
+        Devonport, Tasmania, 7310, Australia
+      lat:
+        -41.1797561
+      lng:
+        146.3613011
+
+  - 朗塞斯顿:
+      state:
+        285
+      city:
+        3539
+      address:
+        Launceston, Tasmania, 7250, Australia
+      lat:
+        -41.4340813
+      lng:
+        147.1373496
+
+维多利亚:
+
+  - 墨尔本:
+      state:
+        286
+      city:
+        3541
+      address:
+        Melbourne, City of Melbourne, Greater Melbourne, Victoria, 3000, Australia
+      lat:
+        -37.8142176
+      lng:
+        144.9631608
+
+  - 雅拉瑞特:
+      state:
+        286
+      city:
+        3541
+      address:
+        Ararat, Rural City of Ararat, Grampians, Victoria, Australia
+      lat:
+        -37.2843443
+      lng:
+        142.930621
+
+  - 本纳拉:
+      state:
+        286
+      city:
+        3541
+      address:
+        Benalla, Rural City of Benalla, Hume, Victoria, 3672, Australia
+      lat:
+        -36.548971
+      lng:
+        145.9883521
+
+  - 柏拉瑞特:
+      state:
+        286
+      city:
+        3541
+      address:
+        Ballarat, City of Ballarat, Grampians, Victoria, VI 3350, Australia
+      lat:
+        -37.5622632
+      lng:
+        143.8607215
+
+  - 本迪戈:
+      state:
+        286
+      city:
+        3541
+      address:
+        Bendigo, City of Greater Bendigo, Loddon Mallee, Victoria, 3550, Australia
+      lat:
+        -36.7588767
+      lng:
+        144.2825931
+
+  - 吉朗:
+      state:
+        286
+      city:
+        3540
+      address:
+        Geelong, City of Greater Geelong, Barwon South West, Victoria, VIC 3220, Australia
+      lat:
+        -38.1492813
+      lng:
+        144.3598269
+
+  - 米尔杜拉:
+      state:
+        286
+      city:
+        3541
+      address:
+        Mildura, Rural City of Mildura, Loddon Mallee, Victoria, 3500, Australia
+      lat:
+        -34.1847265
+      lng:
+        142.1624972
+
+  - 雪帕顿:
+      state:
+        286
+      city:
+        3541
+      address:
+        Shepparton District, Walshs Bridge South Road, Wunghnu, Shire of Moira, Hume, Victoria, Australia
+      lat:
+        -36.155505
+      lng:
+        145.337944557
+
+  - 天鹅山:
+      state:
+        286
+      city:
+        3541
+      address:
+        Swan Hill, Rural City of Swan Hill, Loddon Mallee, Victoria, 3585, Australia
+      lat:
+        -35.3393279
+      lng:
+        143.5592026
+
+  - 旺加拉塔:
+      state:
+        286
+      city:
+        3541
+      address:
+        Wangaratta, Rural City of Wangaratta, Hume, Victoria, 3676, Australia
+      lat:
+        -36.3562509
+      lng:
+        146.3230914
+
+  - 华南布尔:
+      state:
+        286
+      city:
+        3541
+      address:
+        Warrnambool, City of Warrnambool, Barwon South West, Victoria, 3280, Australia
+      lat:
+        -38.3826241
+      lng:
+        142.4814191
+
+  - 沃东加:
+      state:
+        286
+      city:
+        3541
+      address:
+        Wodonga, City of Wodonga, Hume, Victoria, 3690, Australia
+      lat:
+        -36.115235
+      lng:
+        146.905151924
+
+  - 玛丽伯勒:
+      state:
+        286
+      city:
+        3541
+      address:
+        Maryborough, Shire of Central Goldfields, Loddon Mallee, Victoria, 3465, Australia
+      lat:
+        -37.0481014
+      lng:
+        143.7362835
+
+西澳大利亚:
+
+  - 珀斯:
+      state:
+        287
+      city:
+        3548
+      address:
+        Perth, Western Australia, 6000, Australia
+      lat:
+        -31.9527121
+      lng:
+        115.8604796
+
+  - 奥尔巴尼:
+      state:
+        287
+      city:
+        3542
+      address:
+        Albany, Western Australia, 6330, Australia
+      lat:
+        -35.0247822
+      lng:
+        117.883608
+
+  - 布鲁姆:
+      state:
+        287
+      city:
+        3548
+      address:
+        Broome, Western Australia, 6725, Australia
+      lat:
+        -17.9566909
+      lng:
+        122.2240181
+
+  - 班伯里:
+      state:
+        287
+      city:
+        3543
+      address:
+        Bunbury, Western Australia, 6230, Australia
+      lat:
+        -33.3267797
+      lng:
+        115.636698
+
+  - 杰拉尔顿:
+      state:
+        287
+      city:
+        3545
+      address:
+        Geraldton, Western Australia, WA 6530, Australia
+      lat:
+        -28.77035
+      lng:
+        114.6147159
+
+  - 弗里曼特尔港:
+      state:
+        287
+      city:
+        3544
+      address:
+        Fremantle, Western Australia, 6959, Australia
+      lat:
+        -32.0558714
+      lng:
+        115.7461693
+
+  - 卡尔古利:
+      state:
+        287
+      city:
+        3546
+      address:
+        Kalgoorlie, Western Australia, 6432, Australia
+      lat:
+        -30.7464139
+      lng:
+        121.473223
+
+  - 曼哲拉:
+      state:
+        287
+      city:
+        3547
+      address:
+        Mandurah, Western Australia, 6201, Australia
+      lat:
+        -32.5302495
+      lng:
+        115.7208782
+
+  - 黑德兰港:
+      state:
+        287
+      city:
+        3548
+      address:
+        Port Hedland, Western Australia, 6721, Australia
+      lat:
+        -20.3111814
+      lng:
+        118.5801181
+
+新南威尔士:
+
+  - 悉尼:
+      state:
+        288
+      city:
+        3551
+      address:
+        Sydney, New South Wales, Australia
+      lat:
+        -33.8548157
+      lng:
+        151.2164539
+
+  - 奥尔伯里:
+      state:
+        288
+      city:
+        3551
+      address:
+        Albury, Albury City Council, New South Wales, 2640, Australia
+      lat:
+        -36.0804766
+      lng:
+        146.9162795
+
+  - 阿米代尔:
+      state:
+        288
+      city:
+        3551
+      address:
+        Armidale Regional Council, New South Wales, Australia
+      lat:
+        -30.41250495
+      lng:
+        151.94013984
+
+  - 巴瑟斯特:
+      state:
+        288
+      city:
+        3551
+      address:
+        Bathurst Regional Council, New South Wales, 2795, Australia
+      lat:
+        -33.4747071
+      lng:
+        149.641319651
+
+  - 布罗肯希尔:
+      state:
+        288
+      city:
+        3551
+      address:
+        Broken Hill, NSW Central Time Zone, Broken Hill City Council, New South Wales, Australia
+      lat:
+        -31.965
+      lng:
+        141.4511111
+
+  - 塞斯诺克:
+      state:
+        288
+      city:
+        3551
+      address:
+        Cessnock City Council, New South Wales, Australia
+      lat:
+        -32.89403765
+      lng:
+        151.301463938
+
+  - 科夫斯港:
+      state:
+        288
+      city:
+        3551
+      address:
+        Coffs Harbour City Council, New South Wales, Australia
+      lat:
+        -30.1732797
+      lng:
+        152.998587582
+
+  - 达博:
+      state:
+        288
+      city:
+        3551
+      address:
+        Dubbo, Dubbo Regional Council, New South Wales, Australia
+      lat:
+        -32.2478964
+      lng:
+        148.6026502
+
+  - 戈斯福:
+      state:
+        288
+      city:
+        3551
+      address:
+        Gosford, Central Coast Council, New South Wales, 2250, Australia
+      lat:
+        -33.4250175
+      lng:
+        151.3417318
+
+  - 古尔本:
+      state:
+        288
+      city:
+        3551
+      address:
+        Goulburn, Goulburn Mulwaree Council, New South Wales, 2580, Australia
+      lat:
+        -34.7523871
+      lng:
+        149.7198009
+
+  - 格拉夫顿:
+      state:
+        288
+      city:
+        3551
+      address:
+        Grafton, Clarence Valley Council, New South Wales, 2460, Australia
+      lat:
+        -29.69125
+      lng:
+        152.9333435
+
+  - 格里菲斯:
+      state:
+        288
+      city:
+        3551
+      address:
+        Griffith City Council, New South Wales, Australia
+      lat:
+        -34.334545
+      lng:
+        146.008104142
+
+  - 麦觉理湖:
+      state:
+        288
+      city:
+        3551
+      address:
+        Lake Macquarie City Council, New South Wales, Australia
+      lat:
+        -33.03700485
+      lng:
+        151.529745522
+
+  - 立斯摩尔:
+      state:
+        288
+      city:
+        3551
+      address:
+        Lismore City Council, New South Wales, 2480, Australia
+      lat:
+        -28.79363905
+      lng:
+        153.267086751
+
+  - 梅特兰:
+      state:
+        288
+      city:
+        3551
+      address:
+        Maitland City Council, New South Wales, Australia
+      lat:
+        -32.708177
+      lng:
+        151.526843734
+
+  - 纽卡斯尔:
+      state:
+        288
+      city:
+        3549
+      address:
+        Newcastle, Newcastle-Maitland, Newcastle City Council, New South Wales, 2300, Australia
+      lat:
+        -32.9272881
+      lng:
+        151.7812534
+
+  - 诺拉:
+      state:
+        288
+      city:
+        3551
+      address:
+        Nowra, Shoalhaven City Council, New South Wales, 2541, Australia
+      lat:
+        -34.8741198
+      lng:
+        150.6004709
+
+  - 奥兰治:
+      state:
+        288
+      city:
+        3551
+      address:
+        Orange City Council, New South Wales, Australia
+      lat:
+        -33.32924175
+      lng:
+        149.108146609
+
+  - 麦觉理港:
+      state:
+        288
+      city:
+        3551
+      address:
+        Port Macquarie, Port Macquarie-Hastings Council, New South Wales, 2444, Australia
+      lat:
+        -31.4299499
+      lng:
+        152.9103525
+
+  - 昆比恩:
+      state:
+        288
+      city:
+        3551
+      address:
+        Queanbeyan, Queanbeyan-Palerang Regional Council, New South Wales, 2619, Australia
+      lat:
+        -35.3538856
+      lng:
+        149.2323111
+
+  - 塔姆沃思:
+      state:
+        288
+      city:
+        3551
+      address:
+        Tamworth Regional Council, New South Wales, Australia
+      lat:
+        -30.9220482
+      lng:
+        150.909856413
+
+  - 堤维德岬:
+      state:
+        288
+      city:
+        3551
+      address:
+        Tweed Heads, Tweed Shire Council, New South Wales, 2485, Australia
+      lat:
+        -28.181708
+      lng:
+        153.5469621
+
+  - 沃加沃加:
+      state:
+        288
+      city:
+        3551
+      address:
+        Wagga Wagga City Council, New South Wales, Australia
+      lat:
+        -35.115
+      lng:
+        147.3677778
+
+  - 伍伦贡:
+      state:
+        288
+      city:
+        3550
+      address:
+        Wollongong, Wollongong City Council, New South Wales, 2500, Australia
+      lat:
+        -34.4243941
+      lng:
+        150.89385
+
+  - 怀昂:
+      state:
+        288
+      city:
+        3551
+      address:
+        Wyong, Railway Square, Wyong, Central Coast Council, New South Wales, 2259, Australia
+      lat:
+        -33.285641
+      lng:
+        151.4253064

@@ -1,0 +1,106 @@
+http://39.104.28.40:9602:
+  /admin/user/validate-email:
+    timeStamp:
+    token:
+    userId:
+  /api/sso/buyer/update-password:
+    oldPwd:
+    userId:
+    newPwd:
+    deviceId:
+  /api/sso/check-token:
+    ip:
+    token:
+    deviceType:
+    deviceId:
+  /api/sso/clear-token:
+    userId:
+  /api/sso/kick-token:
+    userId:
+    deviceId:
+    appId:
+  /api/sso/seller-agency/update-password:
+    oldPwd:
+    userId:
+    newPwd:
+    deviceId:
+  /mobile/sso/automatic-login:
+    token:
+    encryptedPwd:
+    deviceId:
+  /mobile/sso/buyer-login:
+    password: 123456a
+    deviceType: 1
+    email: 569555808@qq.com
+    deviceId: 48cb11ecd81fa53076a4a8026c472a0b9d876424
+  /mobile/sso/buyer/register:
+    password:
+    deviceType:
+    email:
+    deviceId:
+  /mobile/sso/emp-login:
+    account:
+    password:
+    deviceType:
+    deviceId:
+  /mobile/sso/forget-pwd-email:
+    email:
+  /mobile/sso/logout:
+    tk:
+  /mobile/sso/query-lock-time:
+    loginName:
+  /mobile/sso/register/send:
+    mobile:
+    mobileRegion:
+  /mobile/sso/seller-agency-login:
+    mobile: 18602832572
+    password: 123456a
+    deviceType: 1
+    deviceId:
+    mobileRegion: 86
+  /mobile/sso/seller-agency/forget-password:
+    mobile:
+    newPassword:
+    verifyCode:
+    mobileRegion:
+  /mobile/sso/seller-agency/register:
+    mobile:
+    newPassword:
+    verifyCode:
+    mobileRegion:
+    deviceId:
+  /mobile/sso/seller-agency/update-pwd/send:
+    mobile:
+    mobileRegion:
+  /mobile/sso/seller-agency/update-pwd/validate:
+    mobile:
+    verifyCode:
+    mobileRegion:
+  /mobile/sso/seller-agency/validate-verify-code:
+    mobile:
+    verifyCode:
+    mobileRegion:
+  /web/sso/buyer-login:
+    password:
+    email:
+  /web/sso/buyer/register:
+    password:
+    email:
+  /web/sso/buyer/reset-password:
+    timeStamp:
+    token:
+    userId:
+    email:
+    newPassword:
+  /web/sso/forget-pwd-email:
+    email:
+  /web/sso/logout:
+    tk:
+  /web/sso/operator-emp-login:
+    account:
+    password:
+  /web/sso/query-lock-time:
+    loginName:
+  /web/sso/service-emp-login:
+    account:
+    password:
